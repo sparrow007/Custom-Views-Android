@@ -1,4 +1,4 @@
-package com.example.customviewimple.views.patterns
+package com.jackandphantom.custom_views_android.views.pattern
 
 import android.animation.Animator
 import android.animation.AnimatorSet
@@ -8,6 +8,7 @@ import android.graphics.Canvas
 import android.util.AttributeSet
 import android.view.animation.LinearInterpolator
 import android.widget.FrameLayout
+import com.example.customviewimple.views.patterns.CircularPattern
 
 class ShapeContainer(context: Context, attributeSet: AttributeSet): FrameLayout(context, attributeSet) {
 

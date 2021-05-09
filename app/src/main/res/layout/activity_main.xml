@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
 
-    <com.example.customviewimple.views.patterns.ShapeContainer
+    <com.jackandphantom.custom_views_android.views.pattern.ShapeContainer
         android:layout_width="match_parent"
         android:layout_height="match_parent"
         android:id="@+id/pattern"/>
